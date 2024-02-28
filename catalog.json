@@ -1,0 +1,82 @@
+{
+    "charts": {
+        "home-assistant": {
+            "app_readme": "<h1>Home Assistant</h1>\n<p><a href=\"https://www.home-assistant.io/\">Home Assistant</a> is an open source home automation that puts local control and privacy first.</p>",
+            "categories": [
+                "productivity"
+            ],
+            "description": "Home Assistant is an open source home automation that puts local control and privacy first.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://www.home-assistant.io/",
+            "location": "/__w/charts/charts/charts/home-assistant",
+            "latest_version": "2.0.11",
+            "latest_app_version": "2024.2.4",
+            "latest_human_version": "2024.2.4_2.0.11",
+            "last_update": "2024-02-28 06:22:55",
+            "name": "home-assistant",
+            "recommended": false,
+            "title": "Home Assistant",
+            "maintainers": [
+                {
+                    "name": "truenas",
+                    "url": "https://www.truenas.com/",
+                    "email": "dev@ixsystems.com"
+                }
+            ],
+            "tags": [
+                "home-automation",
+                "assistant"
+            ],
+            "screenshots": [
+                "https://media.sys.truenas.net/apps/home-assistant/screenshots/screenshot1.png"
+            ],
+            "sources": [
+                "https://github.com/home-assistant/home-assistant",
+                "https://github.com/truenas/charts/tree/master/charts/home-assistant"
+            ],
+            "icon_url": "https://media.sys.truenas.net/apps/home-assistant/icons/icon.png"
+        },
+        "nextcloud": {
+            "app_readme": "<h1>nextcloud</h1>\n<p><a href=\"https://nextcloud.com/\">nextcloud</a> is a file sharing server that puts the control and security of your own data back into your hands.</p>",
+            "categories": [
+                "productivity"
+            ],
+            "description": "A file sharing server that puts the control and security of your own data back into your hands.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://nextcloud.com/",
+            "location": "/__w/charts/charts/charts/nextcloud",
+            "latest_version": "1.6.57",
+            "latest_app_version": "28.0.2",
+            "latest_human_version": "28.0.2_1.6.57",
+            "last_update": "2024-02-28 06:22:55",
+            "name": "nextcloud",
+            "recommended": false,
+            "title": "Nextcloud",
+            "maintainers": [
+                {
+                    "name": "truenas",
+                    "url": "https://www.truenas.com/",
+                    "email": "dev@ixsystems.com"
+                }
+            ],
+            "tags": [
+                "nextcloud",
+                "storage",
+                "sync"
+            ],
+            "screenshots": [
+                "https://media.sys.truenas.net/apps/nextcloud/screenshots/screenshot1.png",
+                "https://media.sys.truenas.net/apps/nextcloud/screenshots/screenshot2.png",
+                "https://media.sys.truenas.net/apps/nextcloud/screenshots/screenshot3.png"
+            ],
+            "sources": [
+                "https://github.com/nextcloud/docker",
+                "https://github.com/nextcloud/helm",
+                "https://github.com/truenas/charts/tree/master/charts/nextcloud"
+            ],
+            "icon_url": "https://media.sys.truenas.net/apps/nextcloud/icons/icon.svg"
+        }
+    }
+}
